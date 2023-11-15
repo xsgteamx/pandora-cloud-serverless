@@ -4,7 +4,7 @@
 
 ## Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhile-io%2Fpandora-cloud-serverless)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxsgteamx%2Fpandora-cloud-serverless)
 
 * 部署示例 [https://pandora-cloud-demo.vercel.app](https://pandora-cloud-demo.vercel.app)
 
@@ -14,7 +14,7 @@
 
 ## Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zhile-io/pandora-cloud-serverless)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/xsgteamx/pandora-cloud-serverless)
 
 * 推荐 `VS Code` 打开。
 * 打开后可在 `PORTS` 选项卡看到地址，点击即可访问。
